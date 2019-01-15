@@ -3,7 +3,7 @@
 <body>
 <title>my first page </title>
 
-<form action='C:\xampp1\htdocs\Test\submit.php' method='post'>
+<form action='/xampp1//htdocs//Test/submit.php' method='post'>
 	Firstname:<br>
 	<Input type='text' name='Firstname'>
 	<br>
